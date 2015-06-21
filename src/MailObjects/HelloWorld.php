@@ -1,5 +1,5 @@
 <?php
-	namespace Toothpicks\MailObject;
+	namespace Toothpicks\MailObjects;
 
 	class HelloWorld
 	{
