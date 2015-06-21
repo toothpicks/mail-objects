@@ -1,5 +1,5 @@
 <?php
-    namespace MailObjects;
+    namespace Toothpicks\MailObjects;
 
     class Attachment {
 

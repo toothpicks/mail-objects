@@ -1,5 +1,5 @@
 {
-    "name": "theothernic/mail-objects",
+    "name": "toothpicks/mail-objects",
     "description": "a simple mail-handler object library for easi(er) email manipulation",
     "keywords": ["email", "objects"],
     "homepage": "http://github.com/toothpicks/mail-objects",
@@ -12,6 +12,11 @@
         }
     ],
     "require": {
-        "php": ">= 5.4*"
+        "php": ">5.4*"
+    },
+    "autoload": {
+        "psr-0" : {
+            "Toothpicks\\MailObjects" : "src"
+        }
     }
 }
