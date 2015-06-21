@@ -1,0 +1,17 @@
+{
+    "name": "theothernic/mail-objects",
+    "description": "a simple mail-handler object library for easi(er) email manipulation",
+    "keywords": ["email", "objects"],
+    "homepage": "http://github.com/toothpicks/mail-objects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicholas Barr",
+            "email": "theothernic@outlook.com",
+            "homepage": "http://nicholasbarr.net"
+        }
+    ],
+    "require": {
+        "php": ">= 5.4*"
+    }
+}
